@@ -1,41 +1,11 @@
 Living-Collection
 =================
 
-RBGE Herbarium Data as of 3 Nov 2014
+Plants alive in the Living Collection of the RBGE
 
-Using the export template SPEC_OUT_ROB
+Description
+The Royal Botanic Garden Edinburgh was established in 1670 and during the 20th century acquired three Regional Gardens – the mountainous Benmore in Argyll; Dawyck in the wooded hills of the Scottish Borders and Logan on the Gulf Stream-warmed southern peninsula of Dumfries & Galloway.
+Together they represent one of the world’s largest living collections of plants.
 
-@ID
-BARCODE
-FAMILY_MC
-FAMILY_NUM
-LABEL_NAME_ITALICS
-LABEL_NAME
-GARD_COLLECTOR
-GARD_COLL_NUM
-GARD_LOCATION
-ACC_NUM
-ACC_NUM_QUAL
-GARD_COLL_DT
-LOCATION
-LOCATION_FULL
-GARD_DESCRIPTION
-GARD_COLLECTION_MISC
-PSOURCE
-PSOURCE_ACC_NUM
-PSOURCE_MISC
-VERIFICATION_SUMMARY
-VERI_DT
-VERI_BY
-VERI_BY_AND_DT
-VERI_AS_FULL
-ASSOCIATED_MAT_SUMMARY
-COLLECTOR_FULL_AND_NUM
-COLL_DT
-COLL_ID
-COLL_LOCALITY_AND_HABITAT
-DESCRIPTION
-COLLECTION_MISC
-SHEET_NUM_FULL
-LABEL_HEADING
-OTHER_LABEL_INFO
+Contacts
+r.cubey@rbge.org.uk
